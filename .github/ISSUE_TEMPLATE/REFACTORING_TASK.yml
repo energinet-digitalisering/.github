@@ -1,0 +1,22 @@
+name: ⚙️Refactoring Task
+description: A task related to refactoring code
+labels: ["refactor"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this refactoring task hasn't already been submitted by someone else by looking through other open/closed issues.
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give a brief description of the refactoring task
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Optionally provide additional information on the refactoring task like proposed solutions, links, screenshots, etc.
