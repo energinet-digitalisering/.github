@@ -22,7 +22,7 @@ Fixes `#issue-number, closes #issue-number`
 
 ## Guidelines
 
-The following guidelines are meant to help you create better contributions, and to help you review contributions made by others. These guidelines are not rules, but rather guidelines. There are always exceptions to the rules, and sometimes it is better to break a rule than to follow it. Use your best judgement when creating or reviewing contributions.
+The following guidelines are meant to help you create better contributions and review contributions made by others. These guidelines are not rules but rather guidelines. There are always exceptions to the rules, and sometimes, it is better to break a rule than to follow it. Use your best judgment when creating or reviewing contributions.
 
 ### Coding Guidelines
 
