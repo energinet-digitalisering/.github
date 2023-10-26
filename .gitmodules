@@ -1,0 +1,4 @@
+[submodule "private"]
+	path = private
+	url = git@github.com:energinet-digitalisering/.github-private.git
+	branch = main
