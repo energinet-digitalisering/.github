@@ -27,8 +27,3 @@ body:
         4. See error
     validations:
       required: true
-  - type: textarea
-    id: additional-information
-    attributes:
-      label: Additional Information
-      description: Optionally provide additional information such as logs or screenshots.
