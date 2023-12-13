@@ -1,5 +1,5 @@
 name: 🧹 Chore
-description: A task that does not directly enhance a product. For example documention, cleanup, refactoring or research.
+description: File a general task. For example documention, cleanup, refactoring or research.
 labels: ["chore"]
 body:
   - type: markdown
