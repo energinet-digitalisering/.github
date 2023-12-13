@@ -1,0 +1,16 @@
+name: 🧹 Chore
+description: A task that does not directly enhance a product. For example documention, cleanup, refactoring or research.
+labels: ["chore"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this chore hasn't already been submitted by someone else by looking through other open/closed issues.
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give a brief description of the chore.
+    validations:
+      required: true
