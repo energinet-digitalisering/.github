@@ -2,21 +2,21 @@
 
 Description goes here...
 
-Fixes `#issue-number, closes #issue-number`
+Closes #issue-number
 
 ## Checklist for the creator
 
-- [ ] Ensure you have provided a clear and concise description.
-- [ ] Ensure that the PR is labelled.
-- [ ] Ensure `Closes` or `Fixes` are added to the PR description or commits so issues closed by this PR are correctly linked. An example is shown in the description.
-- [ ] Ensure all `checks` pass before assigning the PR to a reviewer.
-- [ ] Ensure that your changes maintain or improve test coverage.
+- Ensure you have provided a clear and concise description.
+- Ensure that the PR is labelled.
+- Ensure `Closes` or `Fixes` are added to the PR description or commits so issues closed by this PR are correctly linked. An example is shown in the description.
+- Ensure all `checks` pass before assigning the PR to a reviewer.
+- Ensure that your changes maintain or improve test coverage.
 
 ## Checklist for reviewers
 
-- [ ] Double-check that the creator has completed his checklist sufficiently.
-- [ ] Provide constructive feedback on the PRs changes. Keep a focus on the solution approach, code quality, and that the PR solves a problem described in an issue.
-- [ ] Check for any security vulnerabilities introduced by the PR or already present in the codebase touched by the PR.
+- Double-check that the creator has completed his checklist sufficiently.
+- Provide constructive feedback on the PRs changes. Keep a focus on the solution approach, code quality, and that the PR solves a problem described in an issue.
+- Check for any security vulnerabilities introduced by the PR or already present in the codebase touched by the PR.
 
 ---
 
