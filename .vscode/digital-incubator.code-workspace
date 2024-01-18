@@ -5,6 +5,10 @@
       "path": ".."
     },
     {
+      "name": "🐣 Digital Incubator - Private",
+      "path": "../private"
+    },
+    {
       "name": "🐣📄 Templates",
       "path": "../templates"
     },
