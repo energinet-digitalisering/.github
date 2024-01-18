@@ -1,3 +1,3 @@
-# .github
+# Digital Incubator
 
-Our .github repo to customise our organisation profile, and define default resources like templates for issues and pull requests.
+A mono repository that contains all the code, infrastructure, and documentation for the Digital Incubator department at Energinet.
