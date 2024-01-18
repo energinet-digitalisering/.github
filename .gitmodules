@@ -6,3 +6,7 @@
 	path = templates
 	url = git@github.com:energinet-digitalisering/templates.git
 	branch = main
+[submodule "departments/stationdata"]
+	path = departments/stationdata
+	url = git@github.com:energinet-digitalisering/stationdata.git
+	branch = main

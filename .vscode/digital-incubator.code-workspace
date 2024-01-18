@@ -9,6 +9,10 @@
       "path": "../private"
     },
     {
+      "name": "🐣📄🏭 Stationdata",
+      "path": "../departments/stationdata"
+    },
+    {
       "name": "🐣📄 Templates",
       "path": "../templates"
     },
