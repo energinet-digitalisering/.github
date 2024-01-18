@@ -1,0 +1,46 @@
+{
+  "folders": [
+    {
+      "name": "🐣 Digital Incubator",
+      "path": ".."
+    },
+    {
+      "name": "🐣📄 Templates",
+      "path": "../templates"
+    },
+    {
+      "name": "🐣📄🏢 Department Template",
+      "path": "../templates/department-template"
+    },
+    {
+      "name": "🐣📄👬🏻 Team Template",
+      "path": "../templates/team-template"
+    },
+    {
+      "name": "🐣📄📂 Project Template",
+      "path": "../templates/project-template"
+    },
+    {
+      "name": "🐣📄🔄 Infrastructure Flux GitOps Cluster Template",
+      "path": "../templates/infrastructure-flux-gitops-cluster-template"
+    },
+    {
+      "name": "🐣📄🚀 Infrastructure IaC Pulumi AKS Flux Template",
+      "path": "../templates/infrastructure-iac-pulumi-aks-flux-template"
+    },
+    {
+      "name": "🐣📄#️⃣ .NET Template",
+      "path": "../templates/dotnet-template"
+    },
+    {
+      "name": "🐣📄🐹 Go Template",
+      "path": "../templates/go-template"
+    },
+    {
+      "name": "🐣📄🎪 Laravel Template",
+      "path": "../templates/laravel-template"
+    }
+  ],
+  // Here we can define settings for the digital-incubator workspace
+  "settings": {}
+}
