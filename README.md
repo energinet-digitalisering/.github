@@ -23,7 +23,18 @@ git clone --recurse-submodules git@github.com:energinet-digitalisering/.github.g
 
 <!-- readme-tree start -->
 ```
+.
+├── .github
+│   ├── ISSUE_TEMPLATE
+│   └── workflows
+├── .vscode
+├── departments
+│   └── stationdata
+├── private
+├── profile
+└── templates
 
+9 directories
 ```
 <!-- readme-tree end -->
 
