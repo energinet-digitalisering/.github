@@ -33,6 +33,10 @@
       "path": "../templates/infrastructure-iac-pulumi-aks-flux-template"
     },
     {
+      "name": "🐣📄🚀 Infrastructure IaC Terraform AKS Flux Template",
+      "path": "../templates/infrastructure-iac-terraform-aks-flux-template"
+    },
+    {
       "name": "🐣📄#️⃣ .NET Template",
       "path": "../templates/dotnet-template"
     },
@@ -55,6 +59,10 @@
     {
       "name": "🏭☁️🌏 Public Cluster",
       "path": "../departments/stationdata/infrastructure/public-cluster"
+    },
+    {
+      "name": "🏭☁️🚀 CI/CD Cluster",
+      "path": "../departments/stationdata/infrastructure/cicd-cluster"
     },
     {
       "name": "👬🏻 Team Arnold",
