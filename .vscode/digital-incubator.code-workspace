@@ -13,6 +13,26 @@
       "path": "../departments/stationdata"
     },
     {
+      "name": "🐣🏭👬🏻 Team Arnold",
+      "path": "../departments/stationdata/teams/team-arnold"
+    },
+    {
+      "name": "🐣🏭👬🏻🎛️ Substation Gateway",
+      "path": "../departments/stationdata/teams/team-arnold/substation-gateway"
+    },
+    {
+      "name": "🐣🏭🧑‍🤝‍🧑 Team Aros",
+      "path": "../departments/stationdata/teams/team-aros"
+    },
+    {
+      "name": "🐣🏭🧑‍🤝‍🧑🛰️ IoT Platform",
+      "path": "../departments/stationdata/teams/team-aros/projects/iot-platform"
+    },
+    {
+      "name": "🐣🏭🧑‍🤝‍🧑🛰️🌐 Dht Web App",
+      "path": "../departments/stationdata/teams/team-aros/projects/iot-platform/dht-web-app"
+    },
+    {
       "name": "🐣📄 Templates",
       "path": "../templates"
     },
