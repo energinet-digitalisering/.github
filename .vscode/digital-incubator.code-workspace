@@ -13,6 +13,14 @@
       "path": "../departments/stationdata"
     },
     {
+      "name": "🐣🏭☁️ Infrastructure",
+      "path": "../departments/stationdata/infrastructure"
+    },
+    {
+      "name": "🐣🏭☁️🌏 Public Cluster",
+      "path": "../departments/stationdata/infrastructure/public-cluster"
+    },
+    {
       "name": "🐣🏭👬🏻 Team Arnold",
       "path": "../departments/stationdata/teams/team-arnold"
     },
@@ -30,7 +38,7 @@
     },
     {
       "name": "🐣🏭🧑‍🤝‍🧑🛰️🌐 Dht Web App",
-      "path": "../departments/stationdata/teams/team-aros/projects/iot-platform/dht-web-app"
+      "path": "../departments/stationdata/teams/team-aros/projects/iot-platform/dht-webapp"
     },
     {
       "name": "🐣📄 Templates",
