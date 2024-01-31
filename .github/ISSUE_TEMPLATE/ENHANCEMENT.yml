@@ -1,16 +1,15 @@
-name: 🚀Enhancement
+name: 🚀 Enhancement
 description: Request a new feature or enhancement
 labels: ["enhancement"]
+assignees: devantler
 body:
   - type: markdown
     attributes:
       value: |
         Please make sure this enhancement hasn't already been submitted by someone else by looking through other open/closed issues.
-  
+
   - type: textarea
     id: description
     attributes:
       label: Description
       description: Give a brief description of the feature or enhancement
-    validations:
-      required: true

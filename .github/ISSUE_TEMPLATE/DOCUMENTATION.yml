@@ -1,0 +1,15 @@
+name: 📖 Documentation
+description: A documentation task
+labels: ["documentation"]
+assignees: devantler
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this documentation tash hasn't already been submitted by someone else by looking through other open/closed issues.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give a brief description of the feature or subject to be documented.
